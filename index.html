@@ -1,5 +1,40 @@
-Exit code: 0
-Wall time: 0.4 seconds
-Output:
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>MyMusic Jukebox</title><link rel="stylesheet" href="styles.css"></head><body><main><section class="jukebox"><div class="marquee">MyMusic Jukebox</div><div class="record">MY<br>MUSIC</div><p>Now playing</p><h1 id="now-title">Choose a recording</h1><p id="now-meta">Your collection is ready when you are.</p><div><button id="previous">â€¹</button><button id="play-pause">â–¶</button><button id="next">â€º</button></div></section><section class="library"><p>The collection</p><h2>Pick a song. Make it yours.</h2><input id="search" type="search" placeholder="Search recordings"><button id="shuffle">Shuffle</button><ol id="track-list"></ol></section></main><audio id="audio"></audio><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MyMusic Jukebox</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <section class="jukebox">
+      <div class="marquee">MyMusic Jukebox</div>
+      <div class="record">MY<br>MUSIC</div>
+      <p>Now playing</p>
+      <h1 id="now-title">Choose a recording</h1>
+      <p id="now-meta">Your collection is ready when you are.</p>
+      <div>
+        <button id="previous">Previous</button>
+        <button id="play-pause">Play</button>
+        <button id="next">Next</button>
+      </div>
+    </section>
 
+    <section class="library">
+      <p>The collection</p>
+      <h2>Pick a song. Make it yours.</h2>
+      <input id="search" type="search" placeholder="Search recordings">
+      <button id="shuffle">Shuffle</button>
+      <ol id="track-list" class="track-list"></ol>
+    </section>
+  </main>
+
+  <audio id="audio"></audio>
+  <script src="tracks-1.js"></script>
+  <script src="tracks-2.js"></script>
+  <script src="tracks-3.js"></script>
+  <script src="tracks-4.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
