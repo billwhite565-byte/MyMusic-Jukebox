@@ -1,9 +1,86 @@
-Exit code: 0
-Wall time: 0.4 seconds
-Output:
-const tracks=[{"title":"All the Road Runing","artist":"Bill White","year":"","sourceFolder":"VDB Recordings","streamUrl":"https://drive.google.com/uc?export=download&id=1PoLIhuEk6ZyQHgJMsUGsBG-RGxRxHS1O"},{"title":"Angel From Montgomery","artist":"Bill White","year":"","sourceFolder":"VDB Recordings","streamUrl":"https://drive.google.com/uc?export=download&id=1Grcy60UyUjXsHbjEfuED7s8uOFGDD0Jw"},{"title":"Back in the USSR","artist":"Bill White","year":"","sourceFolder":"My Drive","streamUrl":"https://drive.google.com/uc?export=download&id=1CFXl7E5T7XB02jjDWjNZ7chBK1t991fU"},{"title":"Child of Mercy","artist":"Bill White","year":"","sourceFolder":"Music Stuff","streamUrl":"https://drive.google.com/uc?export=download&id=1t1XUXwtXeMp_MnLVa741Y-ArG0tqrll1"},{"title":"Divine Praises","artist":"Bill White","year":"","sourceFolder":"My Drive","streamUrl":"https://drive.google.com/uc?export=download&id=1GrDlBfvo12ErCnywpgSAH1OtcoCJdmKi"},{"title":"Don't Think Twice","artist":"Bill White","year":"","sourceFolder":"VDB Recordings","streamUrl":"https://drive.google.com/uc?export=download&id=1uNqcDLdqqUsW6WWZgZa5FMtXJU3Ql17j"},{"title":"Hallelujah Christ is Coming","artist":"Bill White","year":"","sourceFolder":"My Drive","streamUrl":"https://drive.google.com/uc?export=download&id=1_7ZHAHnLlN5a87vOCZqvrZUeC-3G9Au8"},{"title":"I Heard the Bells","artist":"Bill White","year":"","sourceFolder":"Music Stuff","streamUrl":"https://drive.google.com/uc?export=download&id=0BytpFSrt-9GpYUZCQXhoOU00eHRORWVQNDZYVUhwbXRaX0Q4"},{"title":"Life is Beautiful","artist":"Bill White","year":"","sourceFolder":"My Drive","streamUrl":"https://drive.google.com/uc?export=download&id=1MH0Zvq9qIPgoIGBQG2PSH5AdzHDfybkc"},{"title":"Make You Feel My Love","artist":"Bill White","year":"","sourceFolder":"Veronica Recordings","streamUrl":"https://drive.google.com/uc?export=download&id=1Lmo7eNdvg6ZpyjRnWjayUCv4HOerrwor"},{"title":"MillWorker","artist":"Bill White","year":"","sourceFolder":"My Drive","streamUrl":"https://drive.google.com/uc?export=download&id=1UHiKGBH34Uj7iPLiI3Di02S3gkPhG4Az"},{"title":"Morning Has Broken","artist":"Bill White","year":"","sourceFolder":"Mass Music and Resources","streamUrl":"https://drive.google.com/uc?export=download&id=156Jt1cif3DKs4RAv4psEBoJDaosnS4jh"},{"title":"Prayer of St Francis","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1Yk3IKzxQ-8ClQypW9U4p7jW7_10QZbYY"},{"title":"Psalm 138 - In the Sight of the Angels","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1T8DYXt0668vDLdXle6pCR69W9kbom6nI"},{"title":"Psalm 72 Blakesley","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1OnohUKbaus2D8i7BPAtqihcUbUMCwcVE"},{"title":"Psalm 79","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1xwEeZ_lO2dMx-2oI2wU_ckENJXv2FRtn"},{"title":"Return to Pooh Corner - Wedding Master","artist":"Bill White","year":"","sourceFolder":"Misc Music","streamUrl":"https://drive.google.com/uc?export=download&id=1nXN9pk88sLXFWSlPevlVxaSoi6pshWRa"},{"title":"Ripple","artist":"Bill White","year":"","sourceFolder":"My Drive","streamUrl":"https://drive.google.com/uc?export=download&id=1Tfl-Ke_xKjwRbJ3R7aZQdL3m0TTP55Bf"},{"title":"Send Us Your Spirit","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1I6GQgA59Z3PYjwiilrDCm1wDTrscWKSK"},{"title":"Shepherd Me O God","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1ttnS287TnsYnt_r_IdZqMoVZ8gDTgP7U"},{"title":"Silent Night","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=0B0KCNNvqt6XDQW5VSFdYcS1qUE1XWmlDMDBLN3FuVzJyWEtV"},{"title":"Something Stupid","artist":"Bill White","year":"","sourceFolder":"VDB Recordings","streamUrl":"https://drive.google.com/uc?export=download&id=1Y9wpkmUrUoX-9c0EaDCs32FtdCmYK7X8"},{"title":"Stand By Me","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1bn3FCb_LPG3PaRsYHwyVa34_0dPRH3L5"},{"title":"Stand Up","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=0B0KCNNvqt6XDaTB2dDBIQzZsMmZwcTFiaVVyTlBZYnB4UVM4"},{"title":"Stand Up","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1hO2kV8jBYK_rNGEMNqvenjb54jG5wvWP"},{"title":"Table of Plenty","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1Ab7CS15Z5jT2OV7ZJFdGu3XCMdDmQMTv"},{"title":"Taste and See - Angrisano","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1gyof01J6xRI_k5GMjr2H7u2-W1uiqPkk"},{"title":"The Aye Carol","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1X-Rb0RDGoDb-qDLev0nAJBz7U83oxtgh"},{"title":"The Cry of the Poor","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1biOEOqlwiLTTt17PJGb3NtEKZs49t-Ie"},{"title":"The King Shall Come","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1YG5rS-ZTWyTkKFTenU1WxyunBK5BVUzk"},{"title":"The Lord is My Shepherd","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1413IX6HbKGL-W3NEpxPTnU6VKetwYmGL"},{"title":"The Wedding Song","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1DW-iOL56UsebTIohwJ481br0DrP5Z_WJ"},{"title":"To Where You Are","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1hIEfd2LQ9vqYL0gmq296IKoD4hbeY-7l"},{"title":"What Child is This Child of the Poor II","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1347gmnREJV2XWRXLA1568GG_WbO6C5JA"},{"title":"When I Survey the Wondrous Cross","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1xOS4MOcyW--YXfy5KwVsXfuc-ensV0oi"},{"title":"When its all been said and done","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1Lc1IOIaJ1HzpRLZ86DkMCnzjKs0NeioR"},{"title":"Worthy is the Lamb","artist":"Bill White","year":"","sourceFolder":"Recorded Music","streamUrl":"https://drive.google.com/uc?export=download&id=1nKUqiPw2LxGgFsByP8Z9ZMC9u-HiPndI"}];
-const audio=document.querySelector("#audio"),list=document.querySelector("#track-list"),nowTitle=document.querySelector("#now-title"),nowMeta=document.querySelector("#now-meta"),play=document.querySelector("#play-pause");let current=-1;
-function render(){const q=document.querySelector("#search").value.toLowerCase();list.innerHTML=tracks.map((x,n)=>({x,n})).filter(({x})=>x.title.toLowerCase().includes(q)).map(({x,n})=>'<li class="track '+(n===current?'current':'')+'><span>'+String(n+1).padStart(2,"0")+'</span><button data-index="'+n+'">'+x.title+'<span class="meta">'+x.artist+'</span></button><button class="play" data-index="'+n+'">â–¶</button></li>').join("");}
-function load(n){current=n;const x=tracks[n];audio.src=x.streamUrl;nowTitle.textContent=x.title;nowMeta.textContent=[x.artist,x.year].filter(Boolean).join(" Â· ")||x.sourceFolder;audio.play().catch(()=>{});render();}
-list.onclick=e=>{const b=e.target.closest("[data-index]");if(b)load(+b.dataset.index)};play.onclick=()=>current<0?load(0):audio.paused?audio.play():audio.pause();audio.onplay=()=>play.textContent="âšâš";audio.onpause=()=>play.textContent="â–¶";audio.onended=()=>load((current+1)%tracks.length);document.querySelector("#previous").onclick=()=>load(current>0?current-1:tracks.length-1);document.querySelector("#next").onclick=()=>load(current<tracks.length-1?current+1:0);document.querySelector("#shuffle").onclick=()=>load(Math.floor(Math.random()*tracks.length));document.querySelector("#search").oninput=render;render();
+const tracks = window.TRACKS || [];
 
+const audio = document.querySelector("#audio");
+const list = document.querySelector("#track-list");
+const nowTitle = document.querySelector("#now-title");
+const nowMeta = document.querySelector("#now-meta");
+const playButton = document.querySelector("#play-pause");
+const search = document.querySelector("#search");
+
+let current = -1;
+
+function render() {
+  const query = search.value.toLowerCase();
+
+  list.innerHTML = tracks
+    .map((track, index) => ({ track, index }))
+    .filter(({ track }) => track.title.toLowerCase().includes(query))
+    .map(({ track, index }) => `
+      <li class="track ${index === current ? "current" : ""}">
+        <span>${String(index + 1).padStart(2, "0")}</span>
+        <button data-index="${index}">
+          ${track.title}
+          <span class="meta">${track.artist || "Bill White"}</span>
+        </button>
+        <button class="play" data-index="${index}">Play</button>
+      </li>
+    `)
+    .join("");
+}
+
+function load(index) {
+  current = index;
+  const track = tracks[index];
+
+  audio.src = track.streamUrl;
+  nowTitle.textContent = track.title;
+  nowMeta.textContent =
+    [track.artist, track.year].filter(Boolean).join(" / ") ||
+    track.sourceFolder;
+
+  audio.play().catch(() => {});
+  render();
+}
+
+list.addEventListener("click", (event) => {
+  const button = event.target.closest("[data-index]");
+  if (button) load(Number(button.dataset.index));
+});
+
+playButton.addEventListener("click", () => {
+  if (current < 0) {
+    load(0);
+  } else if (audio.paused) {
+    audio.play();
+  } else {
+    audio.pause();
+  }
+});
+
+document.querySelector("#previous").addEventListener("click", () => {
+  load(current > 0 ? current - 1 : tracks.length - 1);
+});
+
+document.querySelector("#next").addEventListener("click", () => {
+  load(current < tracks.length - 1 ? current + 1 : 0);
+});
+
+document.querySelector("#shuffle").addEventListener("click", () => {
+  load(Math.floor(Math.random() * tracks.length));
+});
+
+search.addEventListener("input", render);
+
+audio.addEventListener("play", () => {
+  playButton.textContent = "Pause";
+});
+
+audio.addEventListener("pause", () => {
+  playButton.textContent = "Play";
+});
+
+audio.addEventListener("ended", () => {
+  load((current + 1) % tracks.length);
+});
+
+render();
